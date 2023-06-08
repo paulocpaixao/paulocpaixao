@@ -10,17 +10,13 @@ I'm a passionate developer who loves creating innovative and impactful solutions
 
 - Programming Languages: Python, SQL, SAS
 - Frameworks and Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
-- Tools: Jupyter Notebook, Amazon Web Services
+- Tools: Jupyter Notebook, Amazon Web Services, Github
 
 ## Featured Projects
 
-- [Project 1 Name](project link): Brief project description.
+- [Online Fraud Detection](https://github.com/paulocpaixao/fraud_detection/blob/main/fraud_detection.ipynb): The project involved the development of a machine learning system for fraud detection in payment transactions. Relevant data such as transaction amounts, timestamps, and transaction types, along with customer transaction history, were collected and analyzed. 
 - [Project 2 Name](project link): Brief project description.
 - [Project 3 Name](project link): Brief project description.
-
-## Contributions to the Community
-
-- [Project/Open Source Name](project link): Brief description of your contribution.
 
 ## Contact
 
