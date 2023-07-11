@@ -16,7 +16,8 @@ I'm a passionate developer who loves creating innovative and impactful solutions
 
 - [Online Fraud Detection](https://github.com/paulocpaixao/fraud_detection/blob/main/fraud_detection.ipynb): The project involved the development of a machine learning system for fraud detection in payment transactions. Relevant data such as transaction amounts, timestamps, and transaction types, along with customer transaction history, were collected and analyzed. 
 - [Breast Cancer](https://github.com/paulocpaixao/breast_cancer/blob/main/load_breast_cancer.ipynb): The project focused on utilizing machine learning techniques for cancer prediction. It involved the analysis of various medical data, such as patient demographics, medical history, and diagnostic test results. By applying advanced algorithms, a predictive model was developed to assess the likelihood of an individual having cancer.
-- [Kmeans](https://github.com/paulocpaixao/kmeans_elbow_and_silhouette/blob/main/Kmeans_Clustering_Using_Elbow_and_Silhouette.ipynb): The project focused on 
+- [Kmeans](https://github.com/paulocpaixao/kmeans_elbow_and_silhouette/blob/main/Kmeans_Clustering_Using_Elbow_and_Silhouette.ipynb): The project focused on
+- [House Price Prediction](https://github.com/paulocpaixao/house_price_prediction/blob/main/House_Price_Prediction.ipynb): The project focused on 
 
 ## Contact
 
