@@ -10,7 +10,7 @@ I'm a passionate developer who loves creating innovative and impactful solutions
 
 - Programming Languages: Python, SQL, SAS
 - Frameworks and Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
-- Tools: Jupyter Notebook, Amazon Web Services, Github
+- Tools: Jupyter Notebook, Amazon Web Services, Github, Tableau
 
 ## Featured Projects
 
